@@ -2,13 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 import { 
   View, 
   Text, 
-  Pressable, 
-  useWindowDimensions, 
-  ScrollView,
-  TouchableOpacity,
-  Linking 
 } from "react-native";
-import {REPO_URL} from "./HomeScreenUtil" 
 
 export default function HomeScreen() {
   return (
