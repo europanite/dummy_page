@@ -1,0 +1,10 @@
+title: "dummy_page"
+description: "A Template For Frontend Expo Development."
+baseurl: "/dummy_page"
+url: "https://europanite.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+highlighter: rouge
