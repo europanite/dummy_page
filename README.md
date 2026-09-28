@@ -15,7 +15,9 @@
 
 [PlayGround](https://europanite.github.io/dummy_page/)
 
-A Dummy Page for everyone, anypurpose.
+This Dummy Page can be used for anyone, anypurpose. 
+
+Please feel free to use this.
 
 ---
 

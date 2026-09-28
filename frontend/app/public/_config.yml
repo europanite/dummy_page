@@ -1,5 +1,5 @@
 title: "dummy_page"
-description: "dummy_page"
+description: "This Dummy Page can be used for anyone, anypurpose."
 baseurl: "/dummy_page"
 url: "https://europanite.github.io"
 theme: minima

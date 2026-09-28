@@ -15,7 +15,8 @@ export default function HomeScreen() {
             gap: 8,
           }}
       >
-        <Text>This Dummy Page can be used for everyone, anypurpose.</Text>
+        <Text>This Dummy Page can be used for anyone, anypurpose.</Text>
+        <Text>Please feel free to use this.</Text>
       </View>
     </View>
 
